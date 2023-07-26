@@ -1,5 +1,0 @@
-"order_id","customer_id","portal_code","product_id","sales","quantity","discount","profit","category","subcategory","product_name","order_date","ship_date","ship_mode","customer_name","segment","country","city","state","region"
-"CA-2019-152156","CG-12520",42420,"FUR-BO-10001798","261.96",2,"0",42,"Furniture","Bookcases","Bush Somerset","2019-11-08","2019-11-11","Second Class","Claire Gute","Consumer","United States","Henderson","Kentucky","South"
-"CA-2019-152255","CG-12520",42420,"FUR-CH-10000454","731.94",3,"0",220,"Furniture","Chairs","Hon Deluxe","2019-11-08","2019-11-11","Second Class","Claire Gute","Consumer","United States","Henderson","Kentucky","South"
-"CA-2019-138688","DV-13045",90036,"OFF-LA-10000240","14.26",2,"0",7,"Office Supplies","Labels","Self-Adhesive","2019-06-12","2019-06-16","Second Class","Darrin Van Huff","Corporate","United States","Los Angeles","California","West"
-"US-2018-108966","SO-20335",33311,"FUR-TA-10000577","957.5775",5,"0.45",-383,"Furniture","Tables","Bretford CR4500","2018-10-11","2018-10-18","Standard Class","Sean O Donnell","Consumer","United States","Fort Lauderdale","Florida","South"
